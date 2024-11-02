@@ -1,4 +1,4 @@
-# sample
+# ICGS
 
 ## Project setup
 ```
